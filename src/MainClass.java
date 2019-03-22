@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// написал, сколько успел (я в цейтноте), позже доделаю, заново отправлю, если хотите (на позднейшее изменение оценки не претендую)
 public class MainClass {
     // задание 1
     public static void main(String[] args) {
